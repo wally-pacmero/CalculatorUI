@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/wally-pacmero/CalculatorUI
+build-by-default: true
+branches:
+- Master
+projects:
+  CalculatorUI:
+    path: CalculatorUI/
+...
