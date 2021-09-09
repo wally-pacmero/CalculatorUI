@@ -2,7 +2,7 @@ name: CalculatorUI
 main: IvanPacmero\CalculatorUI\Main
 api: 3.0.0
 version: 1.0.0-beta
-author: Wallypacmero And IvanCraft
+author: [Wallypacmero], [IvanCraft], [NaufanBlazeYT]
 
 commands:
   cal:
