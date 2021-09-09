@@ -1,0 +1,16 @@
+name: CalculatorUI
+main: IvanPacmero\CalculatorUI\Main
+api: 3.0.0
+version: 1.0.0-beta
+author: Wallypacmero And IvanCraft
+
+commands:
+  cal:
+   description: "CalculatorUI Commands"
+   permission: calculatorui.command
+   usage: /cal
+
+permissions:
+  calculatorui.command:
+    default: op
+    description: "CalculatorUI Commands"
