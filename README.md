@@ -1,5 +1,5 @@
 #CalculatorUI
-Esta calculadoraUI esta hecha con temática educativa en Pocketmine-MP
+This calculatorUI is made with educational theme in Pocketmine-MP
 #Autors
 IvanCraft 
 Wallypacmero
