@@ -1,7 +1,8 @@
 name: CalculatorUI
 main: Wallypacmero\CalculatorUI\Main
-api: 3.0.0
+load: POSTWORLD
 version: 1.0.0-beta
+api: 3.0.0
 author: [Wallypacmero], [IvanCraft], [NaufanBlazeYT]
 
 commands:
