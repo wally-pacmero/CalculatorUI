@@ -16,7 +16,6 @@ use pocketmine\command\CommandSender;
 use pocketmine\command\CommandExecutor;
 use pocketmine\command\ConsoleCommandSender;
 
-use pocketmine\utils\Config;
 
 use Wallypacmero\CalculatorUI\libs\jojoe77777\FormAPI\SimpleForm;
 use Wallypacmero\CalculatorUI\libs\jojoe77777\FormAPI\CustomForm;
